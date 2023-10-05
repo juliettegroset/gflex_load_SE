@@ -1,7 +1,7 @@
 # gflex_load_SE
 
 This code has been provided "as is", for reproducibility purposes (Solid Earth, "Glacial-isostatic-adjustment strain rate–stress paradox in the Western Alps and impact on active faults and seismicity"). 
-We do not provide guarantees about the model's validity for any other use.
+Please note that we do not provide guarantees about the model's validity for any other use.
 
 
 This code uses the gFlex code (Wickert, 2016) which solves the flexure equations in 3D, here from an analytical solution. The elastic thickness is therefore constant.
